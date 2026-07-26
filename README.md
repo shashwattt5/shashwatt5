@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👊🏻 , I'm SHASHWAT SHRIVASTAVA </h1>
 
 <p align="center">
-  <a href="linkedin.com/in/shashwat-shrivastava-a975903a1">LinkedIn</a> |
+
   <a href="Shrishashwat.05@gmail.com" target="_blank">Email</a> |
   <a href="https://github.com/shashwattt5" target="_blank">GitHub</a>
 </p>
@@ -39,6 +39,5 @@
 <p>
   I'm always interested in exciting opportunities and collaborations. Feel free to reach out!<br>
   📧 Email: <a href="mailto:Shrishashwat.05@gmail.com">Shrishashwat.05@gmail.com</a><br>
-  💼 LinkedIn: <a href="linkedin.com/in/shashwat-shrivastava-a975903a1
-" target="_blank">linkedin.com/in/shashwat-shrivastava</a>
+  
 </p>
